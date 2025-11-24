@@ -93,7 +93,11 @@ flowchart TD
 
 [Ver más en docs/conclusiones.md](docs/conclusiones.md)
 
-## 10. Badges
+## 10. Documentación OpenAPI (Swagger)
+
+[Ver más en docs/openapi.md](docs/openapi.md)
+
+## 11. Badges
 
 ![.NET 9](https://img.shields.io/badge/.NET-9.0-blueviolet)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
